@@ -1,0 +1,6 @@
+HiIntent	hello
+HiIntent	hey what's up
+HiIntent	hey whats up
+HiIntent	heyaa
+HiIntent	sup
+HiIntent	whats up
